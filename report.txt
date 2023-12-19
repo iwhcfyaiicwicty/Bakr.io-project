@@ -1,0 +1,4 @@
+The tests undertaken were relatively simple and were limited to ensuring loops can function as intended and be terminated, hence will not be described in greater detail.
+For the program to be user-friendly and for confusion to be avoided, clarifications about the inputs requested are included in brackets after every question.
+This operates under the assumptions that users can read and comprehend written english and are able to follow the instructions by typing their answer in the space after the question in the terminal.
+Furthermore, the text files are limited to the ones given in the folder (as provided by Stile) and are included in the repository as such.
